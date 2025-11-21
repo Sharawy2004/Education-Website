@@ -10,13 +10,6 @@ open_menu.addEventListener("click" , ()=>{
 close_menu.addEventListener("click" , ()=>{
     list.classList.remove("show")
 })
-/*===== MENU SHOW =====*/
-/* Validate if constant exists */
-
-
-/*===== MENU HIDDEN =====*/
-/* Validate if constant exists */
-
 
 /*=============== CHANGE BACKGROUND HEADER ===============*/
 function scrollHeader(){
